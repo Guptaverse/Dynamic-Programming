@@ -1,0 +1,1 @@
+{"name":"Local: dice","url":"c:\\Users\\Shiva\\Documents\\dsa\\1dp\\problem set\\dice.cpp","tests":[{"id":1653335270862,"input":"3","output":"4"},{"id":1653335489753,"input":"6","output":"32"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Shiva\\Documents\\dsa\\1dp\\problem set\\dice.cpp","group":"local","local":true}
