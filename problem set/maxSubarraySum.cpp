@@ -1,6 +1,6 @@
-Leetcode : 53 Maximum Subarray
+// Leetcode : 53 Maximum Subarray
 
-Kadane algorithm
+// Kadane algorithm
 class Solution {
 public:
 
@@ -25,7 +25,7 @@ public:
     }
 };
 
- DP bottom up approach
+//  DP bottom up approach
  
 class Solution {
 public:
